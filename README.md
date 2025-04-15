@@ -14,6 +14,7 @@
 </a>
 
 
+
 ### ⚡ About Me
 
 - 👨‍💻 I build fast, secure, and scalable SaaS platforms  
@@ -39,7 +40,10 @@
 - ✅ Delivered 15+ production-grade SaaS apps  
 - 🔐 Integrated secure payment flows and user auth  
 - 💬 100% client satisfaction with top-rated feedback
-
+<a href="https://shahzabdeveloper.pocketsflow.com/checkout?subscriptionId=67fecbcf61a4fff78643b395 
+" target="_blank">
+  <img src="https://img.shields.io/badge/Hire%20Me%20for%20SaaS%20Development-%F0%9F%9A%80-blue?style=for-the-badge" alt="Hire me">
+</a>
 ---
 
 ### 📊 GitHub Stats
