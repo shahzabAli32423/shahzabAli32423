@@ -1,67 +1,68 @@
 <h1 align="center">Hi 👋, I'm Shahzab Ali</h1>
-<h3 align="center">A Passionate Web Developer & SaaS Builder</h3>
+<h3 align="center">💻 Full Stack Web Developer | 🚀 SaaS Specialist | 🧠 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Web Development gif">
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="500" alt="Hacker animation">
 </p>
 
 ---
 
-### 🚀 About Me
+### ⚡ About Me
 
-- 🔭 I’m currently building custom **SaaS Platforms**, Business Websites, and Admin Dashboards  
-- 🌱 I specialize in **React.js**, **Next.js**, **Tailwind CSS**, **Node.js**, and **MongoDB**
-- 🛠️ I love building full-stack apps with sleek UIs and smooth user experience  
-- 💬 Ask me about anything related to **Web Development, API Integrations, or SaaS Automation**
+- 👨‍💻 I build fast, secure, and scalable SaaS platforms  
+- 🛠️ Stack: **Next.js**, **Node.js**, **MongoDB**, **Tailwind CSS**, **Firebase**, and more  
+- 🔐 Focused on performance, security, and modern UI/UX  
+- 🌍 Available for freelance & startup collaborations
 
 ---
 
 ### 🧰 Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
 ---
 
 ### 🏆 Achievements
 
-- ✅ Developed 15+ custom SaaS applications for clients around the world  
-- 🚀 Completed multiple real-time projects using **Next.js** and **Firebase**
-- 💼 Worked with startups and local businesses to launch web solutions
+- ✅ Delivered 15+ production-grade SaaS apps  
+- 🔐 Integrated secure payment flows and user auth  
+- 💬 100% client satisfaction with top-rated feedback
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzabAli32423&show_icons=true&theme=radical" alt="Shahzab's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahzabAli32423&show_icons=true&theme=dracula" alt="Shahzab GitHub Stats">
 </p>
 
 ---
 
-### 📸 Latest Project Previews
+### 🧠 Project Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="300" alt="Hacker terminal gif">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300" alt="Hacking matrix gif">
 </p>
 
 ---
 
-### 🎯 Let's Work Together!
+### 🚨 Hire Me for SaaS Development
 
-<a href="https://shahzabdeveloper.pocketsflow.com/saas-dev" target="_blank">
-  <img src="https://img.shields.io/badge/Hire%20Me%20for%20SaaS%20Development-%F0%9F%9A%80-blue?style=for-the-badge" alt="Hire me">
-</a>
+<p align="center">
+  <a href="https://shahzabdeveloper.pocketsflow.com/saas-dev" target="_blank">
+    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="350" alt="Hire Me Button">
+  </a>
+</p>
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let’s Connect
 
 - 📧 Email: shahzab.dev@gmail.com  
 - 💼 LinkedIn: [Shahzab Ali](https://www.linkedin.com/in/shahzabAli)  
