@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://shahzabdeveloper.pocketsflow.com/saas-dev" target="_blank">
+    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400" alt="Hire Me for SaaS Development">
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Shahzab Ali</h1>
 <h3 align="center">💻 Full Stack Web Developer | 🚀 SaaS Specialist | 🧠 Tech Enthusiast</h3>
 
@@ -48,16 +54,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="300" alt="Hacker terminal gif">
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300" alt="Hacking matrix gif">
-</p>
-
----
-
-### 🚨 Hire Me for SaaS Development
-
-<p align="center">
-  <a href="https://shahzabdeveloper.pocketsflow.com/saas-dev" target="_blank">
-    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="350" alt="Hire Me Button">
-  </a>
 </p>
 
 ---
